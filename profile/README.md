@@ -1,5 +1,34 @@
-## Hi there 👋
+# Days Until Christmas
 
+_We want to know how long it is until Christmas._
+
+## [Project specification](https://github.com/Days-Until-Christmas/DaysUntilChristmasSpecification)
+
+## Implementations
+
+### By Language
+
+- Java
+  - [DaysUntilChristmasInJava](https://github.com/Days-Until-Christmas/DaysUntilChristmasInJava)
+- Rust
+  - [DaysUntilChristmasInRustForWindows](https://github.com/Days-Until-Christmas/DaysUntilChristmasInRustForWindows)
+  - [DaysUntilChristmasInRustForMacOS](https://github.com/Days-Until-Christmas/DaysUntilChristmasInRustForMacOS)
+- Swift
+  - [DaysUntilChristmasInSwiftUI](https://github.com/Days-Until-Christmas/DaysUntilChristmasInSwiftUI)
+  - [DaysUntilChristmasInSwiftForWindows](https://github.com/Days-Until-Christmas/DaysUntilChristmasInSwiftForWindows)
+  - [DaysUntilChristmasInSwiftForMacOS](https://github.com/Days-Until-Christmas/DaysUntilChristmasInSwiftForMacOS)
+
+### By Operating System
+
+- Universal
+  - [DaysUntilChristmasInJava](https://github.com/Days-Until-Christmas/DaysUntilChristmasInJava)
+- Windows
+  - [DaysUntilChristmasInRustForWindows](https://github.com/Days-Until-Christmas/DaysUntilChristmasInRustForWindows)
+  - [DaysUntilChristmasInSwiftForWindows](https://github.com/Days-Until-Christmas/DaysUntilChristmasInSwiftForWindows)
+- MacOS
+  - [DaysUntilChristmasInRustForMacOS](https://github.com/Days-Until-Christmas/DaysUntilChristmasInRustForMacOS)
+  - [DaysUntilChristmasInSwiftUI](https://github.com/Days-Until-Christmas/DaysUntilChristmasInSwiftUI)
+  - [DaysUntilChristmasInSwiftForMacOS](https://github.com/Days-Until-Christmas/DaysUntilChristmasInSwiftForMacOS)
 <!--
 
 **Here are some ideas to get you started:**
